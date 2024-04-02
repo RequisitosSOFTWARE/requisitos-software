@@ -7,21 +7,26 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 
 ***1.1.  Nome do Grupo***
 
-Indicar o nome e github dos integrantes do grupo
+Alison Carvalho - AlisonCarv
+Gabriel Sarti - GabrielSarti
+João Pedro - JotaSoftware
+Kauan Pedreira - KauanPedreira
+Matheus Madureiraa - MatheusMadureiraa
+Nadia Yuzawa - NadiaYuzawa
 
 ***1.2.  Nome do Sistema***
 
-Indicar o nome do software proposto
+FitTrack - Academia
 
 ***1.3.  Propósito do Sistema***
 
-Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`nome da empresa`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
+Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`FitTrack`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
-O objetivo do sistema `nome do sistema` é .... *<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>*
+O objetivo do sistema `FitTrack` deverá permitir que usuários registrem sua evolução diária na academia, com a capacidade de monitoramento por parte dos professores e personals.
 
 ***1.2.  Público Alvo***
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... *<descrever aqui se existir mais interessados e que participarão do desenvolvimento do sistema>*
+Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes, alunos de academias de todas as idades e níveis de condicionamento físico, bem como professores, personais e gerentes de academias.
 
 ***1.3. Descrição dos usuários***
 
