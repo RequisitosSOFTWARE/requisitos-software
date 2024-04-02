@@ -7,12 +7,12 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 
 ***1.1.  Nome do Grupo***
 
-Alison Carvalho - AlisonCarv
-Gabriel Sarti - GabrielSarti
-João Pedro - JotaSoftware
-Kauan Pedreira - KauanPedreira
-Matheus Madureiraa - MatheusMadureiraa
-Nadia Yuzawa - NadiaYuzawa
+Alison Carvalho - AlisonCarv;
+Gabriel Sarti - GabrielSarti;
+João Pedro - JotaSoftware;
+Kauan Pedreira - KauanPedreira;
+Matheus Madureiraa - MatheusMadureiraa;
+Nadia Yuzawa - NadiaYuzawa;
 
 ***1.2.  Nome do Sistema***
 
