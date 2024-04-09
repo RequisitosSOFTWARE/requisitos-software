@@ -31,6 +31,23 @@ O objetivo do sistema `FitTrack` deverá permitir que usuários registrem sua ev
 Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes, alunos de academias de todas as idades e níveis de condicionamento físico, bem como professores, personais e gerentes de academias.
 
 ***1.3. Descrição dos usuários***
+Perfil do Usuário:
+![Perfil do Usuário](https://github.com/RequisitosSOFTWARE/requisitos-software/assets/164585659/c7b3f7f1-d153-4f3b-8cec-0d92ba4af74f)
+
+Arquivo com as Personas:
+
+[Personas.zip](https://github.com/RequisitosSOFTWARE/requisitos-software/files/14912357/Personas.zip)
+
+Cenário: Antes
+
+Otavio Barreta sempre teve o desejo de levar uma vida mais ativa e saudável, mas nunca conseguiu se comprometer totalmente com a prática regular de exercícios. Ele tentou algumas vezes frequentar a academia, mas acabava desistindo rapidamente devido à falta de motivação e acompanhamento.
+Além de nunca registrar seus treinos ou acompanhar seu progresso, o que dificultava ainda mais sua persistência, já que não pussuia muito conhecimento sobre o assunto e não tinha certeza que estava seguindo o caminho correto;
+
+Cenário: Depois
+
+Após baixar FitTrack, Otavio Barreta começou a utilizar o aplicativo para acompanhar seus treinos e monitorar seu progresso ao longo do tempo. Explorando a comunidade online, Otavio conheceu um usuário chamado Lucas, que compartilhava interesses semelhantes. Os dois desenvolveram uma amizade virtual e decidiram se tornar parceiros de treino na vida real, visto que moravam próximos um do outro.
+
+Com o apoio de Lucas e a consistência proporcionada pelo FitTrack, Otavio finalmente encontrou a motivação necessária para manter uma rotina de exercícios saudável. Ele, agora, vai diariamente à academia, seguindo os programas de treino sugeridos pelo aplicativo e desafiando-se para alcançar novos objetivos. Registrando seus treinos regularmente e monitorando seu progresso com entusiasmo, se sente parte de uma comunidade que o incentiva a alcançar seus objetivos de saúde, o que com o tempo, melhorou muito sua autoestima.
 
 
    
