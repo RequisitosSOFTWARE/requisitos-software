@@ -38,6 +38,26 @@ Arquivo com as Personas:
 
 [Personas.zip](https://github.com/RequisitosSOFTWARE/requisitos-software/files/14912357/Personas.zip)
 
+
+Análise da situação atual: antes da introdução de sua solução
+
+O que as pessoas fazem?
+- Não acompanham os seus treinos e não estão alinhados com seus objetivos, treinam sem ter muito conhecimento prévio.
+Quais os artefatos envolvidos?
+- Nenhum artefato específico, apenas um plano de treino em um papel fornecido pela academia.
+O que elas precisam saber?
+- Ao frequentar uma academia, uma pessoa necessita saber qual o melhor treinamento de acordo com seus pontos fracos e fortes e alinhado ao seu objetivo.
+
+
+Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:
+
+O que as pessoas fazem?
+- Acompanham sua evolução e potencialiazam sua aprendizagem com o fórum onlin, conversando com pessoas mais experientes.
+Quais os artefatos envolvidos?
+- Todas as ferramentas fornecidas pelo nosso aplicativo, como: Gráficos, medidas corporais, fórum online, contato direto com personal trainers
+O que elas precisam saber?
+- Apenas ter conhecimentos básicos sobre como mexer no celular.
+
 Cenário: Antes
 
 Otavio Barreta sempre teve o desejo de levar uma vida mais ativa e saudável, mas nunca conseguiu se comprometer totalmente com a prática regular de exercícios. Ele tentou algumas vezes frequentar a academia, mas acabava desistindo rapidamente devido à falta de motivação e acompanhamento.
