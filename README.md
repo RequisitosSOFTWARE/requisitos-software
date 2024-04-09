@@ -22,7 +22,7 @@ FitTrack - Academia
 
 ***1.3.  Propósito do Sistema***
 
-Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`FitTrack`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
+Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`GymFitness`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
 O objetivo do sistema `FitTrack` deverá permitir que usuários registrem sua evolução diária na academia, com a capacidade de monitoramento por parte dos professores e personals.
 
