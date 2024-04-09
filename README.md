@@ -3,6 +3,8 @@
 
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
+Link do Padlet: https://padlet.com/joaomoreira2004/kanban-4ashaskm4zfgzva8
+
 ## 1. Introdução
 
 ***1.1.  Nome do Grupo***
@@ -30,8 +32,8 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 
 ***1.3. Descrição dos usuários***
 
-*<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
 
+   
 ## 2. Documentos gerais no repositório
 
 ***2.1. Requisitos de usuário***
