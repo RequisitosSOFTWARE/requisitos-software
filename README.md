@@ -73,17 +73,30 @@ Após baixar FitTrack, Otavio Barreta começou a utilizar o aplicativo para acom
 
 Com o apoio de Lucas e a consistência proporcionada pelo FitTrack, Otavio finalmente encontrou a motivação necessária para manter uma rotina de exercícios saudável. Ele, agora, vai diariamente à academia, seguindo os programas de treino sugeridos pelo aplicativo e desafiando-se para alcançar novos objetivos. Registrando seus treinos regularmente e monitorando seu progresso com entusiasmo, se sente parte de uma comunidade que o incentiva a alcançar seus objetivos de saúde, o que com o tempo, melhorou muito sua autoestima.
 
-
    
 ## 2. Documentos gerais no repositório
 
-***2.1. Requisitos de usuário***
+***2.1. Requisitos Funcionais***
 
-*<Link para a pasta com os requisitos de usuário.>*
+RF01 - O software deve permitir que o usuário crie e personalize suas próprias informações, tais como: Nome, foto, etc;
 
-***2.2. Requisitos de sistema***
+RF02 - O usuário deve montar seu próprio treino e escolher seus próprios exercícios;
 
-*<Link para a pasta de requisitos de sistema .>*
+RF03 - O software deve permitir que o usuário cadastre a carga e o número de repetições feitas em cada exercicío;
+
+RF04 - O sistema precisa oferecer ao usuário cadastro de medidas corporais, para que, futuramente seja possível comparar valores.
+
+RF05 - O usuário deve poder definir metas de curto e longo prazo;
+
+RF06 - O software terá uma comunidade online, onde será possível compartilhar seus resultados;
+
+RF07 - O software terá duas opções de cadastro, personal trainer, sendo possível cadastrar vários usúarios, representando seus alunos OU o próprio usuário cadastrar suas informações individualmente;
+
+RF08 - O sistema deve oferecer vídeos informativos e educacionais, ensinando a realizar exercícios da forma correta;
+
+RF09 - O software deve limitar quantidade de séries e exercícios dependendo do objetivo cadastrado anteriormente;
+
+RF10 - O software deve auxiliar um usúario a montar seu treinamento se necessário, sugerindo exercícios, número de séries e cárdios;
 
 ***2.3. Protótipos***
 
