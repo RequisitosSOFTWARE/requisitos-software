@@ -77,26 +77,9 @@ Com o apoio de Lucas e a consistência proporcionada pelo FitTrack, Otavio final
 ## 2. Documentos gerais no repositório
 
 ***2.1. Requisitos Funcionais***
+![Requisitos Funcionais](https://github.com/RequisitosSOFTWARE/requisitos-software/assets/164585659/e6ca91a4-2f99-4d79-803a-d572894120c8)
 
-RF01 - O software deve permitir que o usuário crie e personalize suas próprias informações, tais como: Nome, foto, etc;
 
-RF02 - O usuário deve montar seu próprio treino e escolher seus próprios exercícios;
-
-RF03 - O software deve permitir que o usuário cadastre a carga e o número de repetições feitas em cada exercicío;
-
-RF04 - O sistema precisa oferecer ao usuário cadastro de medidas corporais, para que, futuramente seja possível comparar valores.
-
-RF05 - O usuário deve poder definir metas de curto e longo prazo;
-
-RF06 - O software terá uma comunidade online, onde será possível compartilhar seus resultados;
-
-RF07 - O software terá duas opções de cadastro, personal trainer, sendo possível cadastrar vários usúarios, representando seus alunos OU o próprio usuário cadastrar suas informações individualmente;
-
-RF08 - O sistema deve oferecer vídeos informativos e educacionais, ensinando a realizar exercícios da forma correta;
-
-RF09 - O software deve limitar quantidade de séries e exercícios dependendo do objetivo cadastrado anteriormente;
-
-RF10 - O software deve auxiliar um usúario a montar seu treinamento se necessário, sugerindo exercícios, número de séries e cárdios;
 
 ***2.3. Protótipos***
 
