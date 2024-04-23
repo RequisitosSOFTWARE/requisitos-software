@@ -78,8 +78,8 @@ Com o apoio de Lucas e a consistência proporcionada pelo FitTrack, Otavio final
 
 ***2.1. Requisitos Funcionais***
 
-![Requisitos Funcionais](https://github.com/RequisitosSOFTWARE/requisitos-software/assets/164585659/a203a846-bc78-4477-8fb2-da80b6ef79cc)
 
+![Requisitos Funcionais](https://github.com/RequisitosSOFTWARE/requisitos-software/assets/164585659/0e8a37a8-2fad-440d-9a18-b960195d9f8b)
 
 
 ***2.3. Protótipos***
