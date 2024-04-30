@@ -85,8 +85,12 @@ Com o apoio de Lucas e a consistência proporcionada pelo FitTrack, Otavio final
 
 ![WhatsApp Image 2024-04-22 at 22 37 52 (1)](https://github.com/RequisitosSOFTWARE/requisitos-software/assets/164585659/84f14ae7-bfe9-4733-98c0-0d930d64dbc0)
 
+***2.3. Perguntas***
 
-***2.3. Protótipos***
+[Perguntas.pdf](https://github.com/RequisitosSOFTWARE/requisitos-software/files/15156654/Perguntas.pdf)
+
+
+***2.4. Protótipos***
 
 *<Link para a pasta com os protótipos.>*
 
