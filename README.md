@@ -87,8 +87,6 @@ Com o apoio de Lucas e a consistência proporcionada pelo FitTrack, Otavio final
 
 ***2.3. Perguntas***
 
-[Perguntas.pdf](https://github.com/RequisitosSOFTWARE/requisitos-software/files/15156654/Perguntas.pdf)
-
 [Perguntas.pdf](https://github.com/RequisitosSOFTWARE/requisitos-software/files/15206151/Perguntas.pdf)
 
 ***2.4. Entrevista***
