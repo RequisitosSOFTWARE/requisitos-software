@@ -97,7 +97,12 @@ Com o apoio de Lucas e a consistência proporcionada pelo FitTrack, Otavio final
 
 Entrevista Original: https://drive.google.com/file/d/1k2p8z3j_sRv2P0U12I4kKP_4OpQ2oF3x/view?usp=sharing
 
-***2.5. Protótipos***
+
+***2.5. Histórias do Usuário***
+
+![Histórias do Usuário](https://github.com/RequisitosSOFTWARE/requisitos-software/assets/164585659/6f68c88d-9e1e-4584-ae1a-dc4906d31cc4)
+
+***2.6. Protótipos***
 
 *<Link para a pasta com os protótipos.>*
 
