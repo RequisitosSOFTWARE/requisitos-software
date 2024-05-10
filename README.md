@@ -91,8 +91,13 @@ Com o apoio de Lucas e a consistência proporcionada pelo FitTrack, Otavio final
 
 [Perguntas.pdf](https://github.com/RequisitosSOFTWARE/requisitos-software/files/15206151/Perguntas.pdf)
 
+***2.4. Entrevista***
 
-***2.4. Protótipos***
+[Entrevista Requisitos.docx](https://github.com/RequisitosSOFTWARE/requisitos-software/files/15277037/Entrevista.Requisitos.docx)
+[Entrevista Requisitos.pdf](https://github.com/RequisitosSOFTWARE/requisitos-software/files/15277038/Entrevista.Requisitos.pdf)
+Entrevista Origina: https://drive.google.com/file/d/1k2p8z3j_sRv2P0U12I4kKP_4OpQ2oF3x/view?usp=sharing
+
+***2.5. Protótipos***
 
 *<Link para a pasta com os protótipos.>*
 
