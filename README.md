@@ -8,6 +8,7 @@ Link do Padlet: https://padlet.com/joaomoreira2004/kanban-4ashaskm4zfgzva8
 ## 1. Introdução
 
 ***1.1.  Nome do Grupo***
+***Integrantes:***
 
 Alison Carvalho - AlisonCarv;
 
@@ -17,7 +18,7 @@ João Pedro - JotaSoftware;
 
 Kauan Pedreira - KauanPedreira;
 
-Matheus Madureiraa - MatheusMadureiraa;
+Matheus Madureira - MatheusMadureiraa;
 
 Nadia Yuzawa - NadiaYuzawa;
 
