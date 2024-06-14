@@ -86,11 +86,15 @@ Com o apoio de Lucas e a consistência proporcionada pelo FitTrack, Otavio final
 ***2.1. Requisitos Funcionais***
 
 
-![Requisitos Funcionais](https://github.com/RequisitosSOFTWARE/requisitos-software/assets/164585659/0e8a37a8-2fad-440d-9a18-b960195d9f8b)
+![Requisitos](https://github.com/RequisitosSOFTWARE/requisitos-software/assets/164585659/26312553-2bf0-4d0d-bed3-d01902516956)
+![Requisitos](https://github.com/RequisitosSOFTWARE/requisitos-software/assets/164585659/26312553-2bf0-4d0d-bed3-d01902516956)
+
+
 
 ***2.2. Requisitos Não Funcionais***
 
-![WhatsApp Image 2024-04-22 at 22 37 52 (1)](https://github.com/RequisitosSOFTWARE/requisitos-software/assets/164585659/84f14ae7-bfe9-4733-98c0-0d930d64dbc0)
+![Requisitos (1)](https://github.com/RequisitosSOFTWARE/requisitos-software/assets/164585659/93d29a50-afd4-4e5e-92f2-d287d6b05a3b)
+![Requisitos (1)](https://github.com/RequisitosSOFTWARE/requisitos-software/assets/164585659/93d29a50-afd4-4e5e-92f2-d287d6b05a3b)
 
 ***2.3. Perguntas***
 
