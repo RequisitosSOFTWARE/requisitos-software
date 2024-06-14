@@ -106,16 +106,20 @@ Entrevista Original: https://drive.google.com/file/d/1k2p8z3j_sRv2P0U12I4kKP_4Op
 
 ***2.5. Histórias do Usuário***
 
+
 ![Histórias do Usuário](https://github.com/RequisitosSOFTWARE/requisitos-software/assets/164585659/6f68c88d-9e1e-4584-ae1a-dc4906d31cc4)
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
+
 [Diagrama de Casos de Uso e Especificações.pdf](https://github.com/user-attachments/files/15844514/Diagrama.de.Casos.de.Uso.e.Especificacoes.pdf)
 
 ***2.7. Diagramas de Atividades***
+
 [Diagrama de Atividades.pdf](https://github.com/user-attachments/files/15841559/Diagrama.de.Atividades.pdf)
 
 ***2.8. Diagramas de Classes***
+
 [Classe UML_page-0001.pdf](https://github.com/user-attachments/files/15841839/Classe.UML_page-0001.pdf)
 
 ***2.8. Matrizes de Rastreabilidade***
