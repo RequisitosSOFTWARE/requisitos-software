@@ -120,10 +120,11 @@ Entrevista Original: https://drive.google.com/file/d/1k2p8z3j_sRv2P0U12I4kKP_4Op
 
 ***2.8. Matrizes de Rastreabilidade***
 
+[Matriz de Rastreabilidade.pdf](https://github.com/user-attachments/files/15844667/Matriz.de.Rastreabilidade.pdf)
+
 ***2.9. Protótipos***
 
 [Protótipo.pdf](https://github.com/user-attachments/files/15844361/Prototipo.pdf)
-
 
 ## Referências
 
