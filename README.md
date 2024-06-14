@@ -122,11 +122,11 @@ Entrevista Original: https://drive.google.com/file/d/1k2p8z3j_sRv2P0U12I4kKP_4Op
 
 [Classe UML_page-0001.pdf](https://github.com/user-attachments/files/15841839/Classe.UML_page-0001.pdf)
 
-***2.8. Matrizes de Rastreabilidade***
+***2.9. Matrizes de Rastreabilidade***
 
 [Matriz de Rastreabilidade.pdf](https://github.com/user-attachments/files/15844667/Matriz.de.Rastreabilidade.pdf)
 
-***2.9. Protótipos***
+***3.0. Protótipos***
 
 [Protótipo.pdf](https://github.com/user-attachments/files/15844361/Prototipo.pdf)
 
